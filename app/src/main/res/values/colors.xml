@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary colors -->
+    <color name="color_primary_00">#5900FF</color>
+    <color name="color_primary_01">#5411D0</color>
+    <color name="color_primary_02">#734AEA</color>
+
+    <!-- Neutral colors -->
+    <color name="color_neutral_00">#111111</color>
+    <color name="color_neutral_01">#2A2A2A</color>
+    <color name="color_neutral_02">#414141</color>
+    <color name="color_neutral_03">#A7A7A7</color>
+    <color name="color_neutral_04">#D9D9D9</color>
+    <color name="color_neutral_05">#FFFFFF</color>
+    
+    <!-- Accent colors -->
+    <color name="color_error">#C32C30</color>
+    <color name="color_verified">#3770E5</color>
 </resources>

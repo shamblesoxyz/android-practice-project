@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CisnW</string>
+    <string name="app_wordmark">Magic music for everyone.</string>
+    <string name="app_intro">Milions of songs.\nFree on CisnW.</string>
 </resources>
